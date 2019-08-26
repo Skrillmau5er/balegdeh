@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/balegdeh/static/css/main.7669efd6.chunk.css",
+    "main.js": "/balegdeh/static/js/main.be6aaa45.chunk.js",
+    "main.js.map": "/balegdeh/static/js/main.be6aaa45.chunk.js.map",
+    "runtime~main.js": "/balegdeh/static/js/runtime~main.2e9d377e.js",
+    "runtime~main.js.map": "/balegdeh/static/js/runtime~main.2e9d377e.js.map",
+    "static/js/2.70fbeaf4.chunk.js": "/balegdeh/static/js/2.70fbeaf4.chunk.js",
+    "static/js/2.70fbeaf4.chunk.js.map": "/balegdeh/static/js/2.70fbeaf4.chunk.js.map",
+    "index.html": "/balegdeh/index.html",
+    "precache-manifest.518d255995edeb2c361df82702aacff1.js": "/balegdeh/precache-manifest.518d255995edeb2c361df82702aacff1.js",
+    "service-worker.js": "/balegdeh/service-worker.js",
+    "static/css/main.7669efd6.chunk.css.map": "/balegdeh/static/css/main.7669efd6.chunk.css.map",
+    "static/media/balegdeh_face.png": "/balegdeh/static/media/balegdeh_face.46b0e4dd.png",
+    "static/media/jamaica.m4a": "/balegdeh/static/media/jamaica.30eacd80.m4a"
+  }
+}
